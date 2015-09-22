@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://coolxin.github.io/atom.xml" rel="self"/>
+  <link href="http://coolxin.github.io/"/>
+  <updated>2015-09-22T15:19:37+08:00</updated>
+  <id>http://coolxin.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kiss the Rain]]></title>
+    <link href="http://coolxin.github.io/blog/2015/09/22/kiss-the-rain/"/>
+    <updated>2015-09-22T15:18:01+08:00</updated>
+    <id>http://coolxin.github.io/blog/2015/09/22/kiss-the-rain</id>
+    <content type="html"><![CDATA[<p><a href="http://music.163.com/#/song?id=26129661&amp;autoplay=true">Kiss The Rain</a></p>
+
+<p><img src="http://media-cache-ak0.pinimg.com/736x/dd/4d/32/dd4d321d17007362a4541a6f75c0dda0.jpg" alt="" />
+<img src="http://s3.amazonaws.com/readers/2012/08/14/cat-and-rain_1.jpg" alt="" />
+<img src="http://wallvan.com/wp-content/uploads/2013/12/Boy-helping-a-cat-in-the-rain-Wallpaper.jpg" alt="" />
+<img src="http://gallery.photo.net/photo/8563860-md.jpg" alt="" />
+<img src="http://www.blirk.net/wallpapers/1920x1080/rain-wallpaper-2.jpg" alt="" /></p>
+]]></content>
+  </entry>
+  
+</feed>
